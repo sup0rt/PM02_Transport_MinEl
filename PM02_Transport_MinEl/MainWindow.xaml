@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PM02_Transport_MinEl"
         mc:Ignorable="d"
-        Title="Транспортная задача (Метод минимальных элементов)" Height="600" Width="880">
+        Title="Транспортная задача (Метод минимальных элементов)" Height="600" Width="950">
 
     <Grid Margin="10">
         <Grid.RowDefinitions>
